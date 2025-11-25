@@ -1,2 +1,1 @@
-# SupervisedLearning
-Create Supervised Machine Learning with Python
+# Detection Customer Churn
