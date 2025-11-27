@@ -5,3 +5,5 @@
 # Pre-Processing Data
 
 ## Handling Missing Value
+
+## Handling Outlier
